@@ -1,0 +1,34 @@
+#header{
+    background-color: blueviolet;
+    
+}
+#notebook{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 50px;
+}
+
+#mainblogs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.myposts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: red;
+
+}
+
+#postblogs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: red;
+    color: red;
+}
